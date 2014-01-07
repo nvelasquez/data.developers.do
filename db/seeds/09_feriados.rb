@@ -17,7 +17,19 @@ feriados_list = [
 	["16/8/2014","", "Dia de la Restauración"],
 	["24/9/2014","", "Dia de las Mercedes"],
 	["6/11/2014","10/11/2014", "Dia de la Constitución"],
-	["25/12/2014","", "Dia de Navidad"]
+	["25/12/2014","", "Dia de Navidad"],
+	["1/1/2013","", "Dia de año nuevo"],
+	["6/1/2013","", "Dia de los Santos Reyes"],
+	["21/1/2013","", "Dia de la Altagracia"],
+	["26/1/2013","", "Dia de Duarte"],
+	["27/2/2013","", "Dia de la Independencia"],
+	["18/4/2013","", "Viernes Santo"],
+	["1/5/2013","29/04/2013", "Dia del Trabajo"],
+	["19/6/2013","", "Corpus Cristi"],
+	["16/8/2013","", "Dia de la Restauración"],
+	["24/9/2013","", "Dia de las Mercedes"],
+	["6/11/2013","04/11/2013", "Dia de la Constitución"],
+	["25/12/2013","", "Dia de Navidad"],
 ]
 
 feriados_list.each do |original, movido, mot|
